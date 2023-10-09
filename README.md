@@ -24,7 +24,7 @@
 - 菜单管理、角色管理、用户管理、日志管理、个人中心、密码修改
 ![contents](./picture/picture00.png)
 **文档目录截图**
-![contents](./picture/picture00.png)
+![contents](./picture/picture000.png)
 ## 二、所用技术
 
 后端技术栈：
